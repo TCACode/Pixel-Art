@@ -13,8 +13,8 @@
 .pixel{
     display: table-cell;
     background-color: white;
-    width: 45px;
-    height: 45px;
+    width: 48px;
+    height: 46px;
 }
 
 .pixel:active{
@@ -49,8 +49,8 @@
 }
 
 .pen1{
-    width: 60px;
-    height: 45px;
+    width: 63px;
+    height: 46px;
     margin: 10px 0px 0px -40px ;
     font-weight: bold;
     box-shadow: 5px 5px 5px #aaaaaa;
@@ -63,8 +63,8 @@ tr{
 
 button{
     display: inline-table;
-    width: 45px;
-    height: 45px;
+    width: 48px;
+    height: 46px;
     border: 2px solid black;
     margin:4px;
 }
