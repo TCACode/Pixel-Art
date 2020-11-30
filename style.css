@@ -51,6 +51,7 @@
 .pen1{
     width: 63px;
     height: 46px;
+    margin-left: 10px;
     font-weight: bold;
     box-shadow: 5px 5px 5px #aaaaaa;
 }
